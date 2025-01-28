@@ -36,6 +36,6 @@ As a highly sought-after Lead Engineer with extensive experience in AI/ML, I am 
 
 ## 📫 Let's Connect
 
-- LinkedIn: ([Michael McBride](https://www.linkedin.com/in/mcbride2045/))
+- LinkedIn: ([Michael McBride](https://www.linkedin.com/in/mcbrideai/))
 
 Feel free to reach out to me for any inquiries or collaboration opportunities!
