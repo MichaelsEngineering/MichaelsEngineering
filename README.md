@@ -13,7 +13,7 @@ As a highly sought-after Lead Engineer with extensive experience in AI/ML, I am 
 
 ### AI/ML Engineer/ Lead Software Developer
 
-[**Citizen Empowerment Corporation**](https://www.citizenempowermentcorporation.com/) (2022 – Current, Remote)
+[**Citizen Empowerment Corporation**](https://github.com/MichaelsEngineering) (2022 – Current, Remote)
 
 ### Senior Signature Success Engineer
 
