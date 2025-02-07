@@ -1,9 +1,14 @@
 # 👋 Hi, I'm Michael McBride
 
-As a highly sought-after Lead Engineer with extensive experience in AI/ML, I am passionate about driving innovation and excellence in the field of artificial intelligence and machine learning. With over 8 years of experience, I have honed my skills in developing scalable, robust platforms that empower agents including data scientists and ML engineers to push the boundaries of AI applications. My journey has been marked by a relentless pursuit of knowledge and a commitment to leveraging state-of-the-art technologies to solve complex problems and deliver exceptional results.
+Senior Machine Learning Research Engineer with 9+ years of experience and a Master's in AI/ML, specializing in deep learning systems and distributed training. Proven success in scaling transformer architectures and optimizing ML infrastructure to serve millions of inference requests efficiently.
+
+Currently leading research initiatives in agent mechanism optimization and automated architecture exploration while building production-grade RL infrastructure. Passionate about solving complex technical challenges at the intersection of research and engineering.
+
+Fast at integrating research papers and new model releases into production-ready applications!
 
 ## 🛠️ Technical Skills
 
+- Deep Learning: PyTorch, Transformers, RLHF, Neural Architecture Search
 - Programming Languages: TypeScript, Python, JavaScript (React, Node/Express), C/C++, Java, Go
 - Databases: SQL, Oracle, DynamoDB, Elastic Search, etc.
 - Cloud Platforms: AWS, OCI, Salesforce, GCP, etc.
