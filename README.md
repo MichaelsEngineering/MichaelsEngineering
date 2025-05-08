@@ -1,12 +1,9 @@
 # 👋 Hi, I'm Michael McBride
 
-**Innovative ML Research Engineer** | Advancing AI through Deep Learning & Agent-Based Systems
+### AI/ML & RL Innovator | Founder & Research Engineer Driving Breakthroughs in Transfer Learning & Complexity Reduction for Advanced ReAct Agentic Systems
 
-With a strong foundation in AI/ML and over 9 years of experience, I specialize in pushing the boundaries of what's possible with deep learning and agent-based systems. My work involves developing novel algorithms and architectures, focusing on areas such as **Test-Time Training (TTT)**, **Program Synthesis with RL agents**, and **Neurally-Guided Program Induction**.
+Bring extensive experience developing, deploying, and managing advanced machine learning models, particularly focused on RL agents. Skilled in identifying and implementing innovative solutions for data collection, scaling, and normalization to enhance system performance and efficiency. Proficient in collaborating cross-functionally to build robust data pipelines, ensuring optimal data quality for training and evaluation. Experienced in leveraging modern MLOps practices and cloud infrastructure to streamline model deployment, monitoring, and maintenance processes. Effective communicator adept at translating complex technical concepts clearly to diverse stakeholders to drive strategic initiatives.
 
-I thrive at the intersection of research and engineering, translating complex theories into practical, scalable solutions. My goal is to create AI systems that are intelligent, adaptable, and efficient.
-
----
 
 ## 🛠️ Technical Skills
 
