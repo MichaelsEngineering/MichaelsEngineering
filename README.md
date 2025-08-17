@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Michael McBride
 
-### AI/ML & RL Innovator | Founder & Research Engineer Driving Breakthroughs in Transfer Learning & Complexity Reduction for Advanced ReAct Agentic Systems
+### AI, ML & RL Innovator | Founder & Research Engineer Driving Breakthroughs in Transfer Learning & Complexity Reduction for Advanced ReAct Agentic Systems
 
-Bring extensive experience developing, deploying, and managing advanced machine learning models, particularly focused on RL agents. Skilled in identifying and implementing innovative solutions for data collection, scaling, and normalization to enhance system performance and efficiency. Proficient in collaborating cross-functionally to build robust data pipelines, ensuring optimal data quality for training and evaluation. Experienced in leveraging modern MLOps practices and cloud infrastructure to streamline model deployment, monitoring, and maintenance processes. Effective communicator adept at translating complex technical concepts clearly to diverse stakeholders to drive strategic initiatives.
+Bring extensive experience developing, deploying, and managing advanced machine learning models, particularly focused on Deep RL agents. Skilled in identifying and implementing innovative solutions for data collection, scaling, and normalization to enhance system performance and efficiency. Proficient in collaborating cross-functionally to build robust data pipelines, ensuring optimal data quality for training and evaluation. Experienced in leveraging modern MLOps practices and cloud infrastructure to streamline model deployment, monitoring, and maintenance processes. Effective communicator adept at translating complex technical concepts clearly to diverse stakeholders to drive strategic initiatives.
 
 
 ## 🛠️ Technical Skills
