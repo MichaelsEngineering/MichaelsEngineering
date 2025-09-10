@@ -42,7 +42,7 @@ Bring extensive experience developing, deploying, and managing advanced machine 
 
 ### AI/ML Engineer/ Lead Software Developer | Founder | AI Research Enginer
 
-[**MMI F.K.A CEC**](https://www.linkedin.com/in/mcbrideai/) (2022 – Current, Remote)
+[**MMI F.K.A CEC**](https://www.linkedin.com/in/mcbridemachineintelligence/) (2022 – Current, Remote)
 
 ### Senior Signature Success Engineer
 
