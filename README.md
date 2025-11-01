@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Michael McBride
 
-### AI, ML & RL Innovator | Founder & Research Engineer Driving Breakthroughs in Transfer Learning & Complexity Reduction for Advanced ReAct Agentic Systems
+### AI | ML Research Engineer & Founder
 
-Bring extensive experience developing, deploying, and managing advanced machine learning models, particularly focused on Deep RL agents. Skilled in identifying and implementing innovative solutions for data collection, scaling, and normalization to enhance system performance and efficiency. Proficient in collaborating cross-functionally to build robust data pipelines, ensuring optimal data quality for training and evaluation. Experienced in leveraging modern MLOps practices and cloud infrastructure to streamline model deployment, monitoring, and maintenance processes. Effective communicator adept at translating complex technical concepts clearly to diverse stakeholders to drive strategic initiatives.
+As an AI research engineer and founder, I build next-generation deep RL platforms at the intersection of cognitive augmentation, agentic decision systems, and plasma-control, research aware machine intelligence. I push the boundaries of agent intelligence while making advanced ML systems more efficient, interpretable, and scalable. Current milestones include working prototypes, IP, and ongoing pilot discussions with domain partners in finance and plasma physics research. I am also open to strategic partners, and additional lab collaborations with like-minded individuals that want to accelerate global deep-RL impact and translate research into deployed systems.
 
 
 ## 🛠️ Technical Skills
@@ -58,6 +58,6 @@ Bring extensive experience developing, deploying, and managing advanced machine 
 
 ## 📫 Let's Connect
 
-- LinkedIn: ([Michael McBride](https://www.linkedin.com/in/mcbrideai/))
+- LinkedIn: ([Michael McBride](https://www.linkedin.com/in/mcbridemachineintelligence/))
 
 Feel free to reach out to me for any inquiries or collaboration opportunities!
