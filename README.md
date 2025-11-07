@@ -40,7 +40,7 @@ As an AI research engineer and founder, I build next-generation deep RL platform
 
 ## 💼 Professional Experience
 
-### AI/ML Engineer/ Lead Software Developer | Founder | AI Research Enginer
+### Senior AI/ML Research Engineer | Founder 
 
 [**MMI F.K.A CEC**](https://www.linkedin.com/in/mcbridemachineintelligence/) (2022 – Current, Remote)
 
