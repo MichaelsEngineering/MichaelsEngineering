@@ -1,8 +1,8 @@
-# 👋 Hi, I'm Michael McBride
+# 🚀 Hi, I'm Michael McBride
 
 ### AI | ML Research Engineer & Founder
 
-As an AI research engineer and founder, I build next-generation deep RL platforms at the intersection of cognitive augmentation, agentic decision systems, and plasma-control, research aware machine intelligence. I push the boundaries of agent intelligence while making advanced ML systems more efficient, interpretable, and scalable. Current milestones include working prototypes, IP, and ongoing pilot discussions with domain partners in finance and plasma physics research. I am also open to strategic partners, and additional lab collaborations with like-minded individuals that want to accelerate global deep-RL impact and translate research into deployed systems.
+As an AI research engineer and founder, I build next-generation deep RL platforms at the intersection of cognitive augmentation, agentic decision systems, and plasma-control, research aware machine intelligence. I push the boundaries of agent intelligence while making advanced ML systems more efficient, interpretable, and scalable. 
 
 
 ## 🛠️ Technical Skills
@@ -19,6 +19,7 @@ As an AI research engineer and founder, I build next-generation deep RL platform
 - Java
 - Go
 - TypeScript
+- Bash
 
 **Data Management**
 - SQL
@@ -40,9 +41,9 @@ As an AI research engineer and founder, I build next-generation deep RL platform
 
 ## 💼 Professional Experience
 
-### Senior AI/ML Research Engineer | Founder 
+### Principal AI/ML Research Engineer | Founder 
 
-[**MMI F.K.A CEC**](https://www.linkedin.com/in/mcbridemachineintelligence/) (2022 – Current, Remote)
+[**MMI F.K.A CEC**](https://www.linkedin.com/in/mcbridemachineintelligence/) (2022 – Present, Remote)
 
 ### Senior Signature Success Engineer
 
