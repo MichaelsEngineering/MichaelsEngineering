@@ -43,7 +43,7 @@ As an AI research engineer and founder, I build next-generation deep RL platform
 
 ### Principal AI/ML Research Engineer | Founder 
 
-[**MMI F.K.A CEC**](https://www.linkedin.com/in/mcbridemachineintelligence/) (2022 – Present, Remote)
+[**MMI F.K.A CEC**](https://mmitheory.com/) (2022 – Present, Remote)
 
 ### Senior Signature Success Engineer
 
