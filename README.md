@@ -1,8 +1,8 @@
 # 🚀 Hi, I'm Michael McBride
 
-### AI | ML Research Engineer & Founder
+### Principal Systems and AI | ML Research Engineer | Founder
 
-As an AI research engineer and founder, I build next-generation deep RL platforms at the intersection of cognitive augmentation, agentic decision systems, and plasma-control, research aware machine intelligence. I push the boundaries of agent intelligence while making advanced ML systems more efficient, interpretable, and scalable. 
+As an AI research engineer and founder in charge of all the systems, I build next-generation deep RL platforms at the intersection of cognitive augmentation, agentic decision systems, and plasma-control, research aware machine intelligence. I push the boundaries of agent intelligence while making advanced ML systems more efficient, interpretable, and scalable. 
 
 
 ## 🛠️ Technical Skills
