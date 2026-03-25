@@ -41,7 +41,7 @@ As an AI research engineer and founder in charge of all the systems, I build nex
 
 ## 💼 Professional Experience
 
-### Principal AI/ML Research Engineer | Founder 
+### Principal Systems and AI | ML Research Engineer | Founder
 
 [**MMI F.K.A CEC**](https://mmitheory.com/) (2022 – Present, Remote)
 
