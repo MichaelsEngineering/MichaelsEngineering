@@ -49,7 +49,7 @@ As an AI research engineer and founder in charge of all the systems, I build nex
 
 [**Salesforce**](https://www.salesforce.com/) (2021 – 2022, Remote)
 
-### Technical Analyst 3/ Senior Technical Support Engineer
+### Senior TS Engineer
 
 [**Oracle**](https://www.oracle.com/cx/ecommerce/) (2019 – 2021, Lehi, UT/Remote)
 
